@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 
 
 -->
+<table><tr><td valign="top" width="33%">
+
+### Recent releases
+</td><td valign="top" width="34%">
+
+### On my blog
+</td><td valign="top" width="33%">
+
+### TIL
+</td></tr></table>
