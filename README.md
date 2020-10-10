@@ -1,4 +1,4 @@
-### It's not a passion, It's just a very frustrating hobby 👋
+### I don't see this as a passion, but rather a very frustrating hobby 👋 It's still fun!
 
 
 - 🔭 I’m currently working on ... Multiple Small Projects
