@@ -1,28 +1,14 @@
-### Just started this new gihub Readme thingy. May update later. 👋
+### It's not a passion, It's just a very frustrating hobby 👋
 
 
 - 🔭 I’m currently working on ... Multiple Small Projects
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... more stufff on GCP
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... my day
 - 📫 How to reach me: ... [portfolio](https://safwbdev.netlify.com/)
-- 😄 Pronouns: ...
+- 😄 Favourite Tools to work with: React, Vue, JavaScript, ES6
+- 😄 Dreaded Tools to work with: Angular, Wordpress
+- 😄 Strengths: React, Vue, JavaScript, ES6, Front End, SASS, Teamwork
+- 😄 Weaknesses: No Psychic powers, over analyse, over paranoid, bits of the backend stuff
+- 🤔 Stuff I want to learn: AWS, Python
 - ⚡ Fun fact: ... facts are fun!
-<!--
-**safwbdev/safwbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-<table><tr><td valign="top" width="33%">
-
-### Recent releases
-</td><td valign="top" width="34%">
-
-### On my blog
-</td><td valign="top" width="33%">
-
-### TIL
-</td></tr></table>
